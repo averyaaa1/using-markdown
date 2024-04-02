@@ -16,8 +16,10 @@ var hotGirl = "I am hot girl flower";
 ```
 
 
-
-
+- [ ] Romanticize man
+- [ ] Read Book
+- [ ] Overthrow Anarchy
+- [ ] Wear lip gloss
 
 
 
