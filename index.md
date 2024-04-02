@@ -11,7 +11,9 @@
 
 
 
-
+```javascript
+var hotGirl = "I am hot girl flower";
+```
 
 
 
